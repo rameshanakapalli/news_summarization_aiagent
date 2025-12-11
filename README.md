@@ -33,8 +33,4 @@ The **News Summarization Bot** is an AI-powered application that:
 - **NewsAPI**: Fetches news articles based on user-selected topics.
 - **HuggingFace Inference API**: Summarizes articles and extracts keywords using AI models.
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/chvenkatavaibhav/New-Summarizer-aiagent.git
-.git
+
